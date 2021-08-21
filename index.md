@@ -4,7 +4,7 @@ Post-doctoral Research Fellow
 Academy for Advanced Interdisciplinary Studies
 Southern University of Science and Technology, Shenzhen, China
 
-### Education
+### Education:
 
 Doctor of Philosophy in Electrical Engineering,	
 The University of Hong Kong, Hong Kong SAR, China,
@@ -20,7 +20,7 @@ Purdue University, West Lafayette, Indiana, USA
 2010/08 – 2014/12,
 
 
-### Publications (\*) Corresponding Author.
+### Publications: (\*) Corresponding Author.
 Journals:  
 
 [1]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
