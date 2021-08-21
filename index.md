@@ -8,42 +8,41 @@ Southern University of Science and Technology, Shenzhen, China
 
 ### Education:
 
-•	Doctor of Philosophy in Electrical Engineering,	
+•	Doctor of Philosophy in Electrical Engineering,	2016/09 – 2020/07,
 
   The University of Hong Kong, Hong Kong SAR, China,
   
-  2016/09 – 2020/07
+  
 
-•	Master of Science in Electrical Engineering,	
+•	Master of Science in Electrical Engineering, 2015/01 – 2016/05,
+
 
   University of Southern California, Los Angeles, California, USA,
   
-  2015/01 – 2016/05
-
-•	Bachelor of Science in Electrical Engineering,	
+  
+•	Bachelor of Science in Electrical Engineering, 2010/08 – 2014/12,
 
   Minor: Economics (Graduate with Distinction),
   
   Purdue University, West Lafayette, Indiana, USA
   
-  2010/08 – 2014/12,
-
+  
 
 ### Professional Experience:
 
-•	Post-doctoral Research Fellow, 2020/09 – Present
+•	Post-doctoral Research Fellow, 2020/09 – Present,
 
-  Academy for Advanced Interdisciplinary Studies
-
-  Southern University of Science and Technology, Shenzhen, China
-
-•	Visiting Scholar,	2020/08 – 2020/09
-
-  Department of Computer Science and Engineering
+  Academy for Advanced Interdisciplinary Studies,
 
   Southern University of Science and Technology, Shenzhen, China
 
-•	Research Assistant,	2018/04 – 2019/03
+•	Visiting Scholar,	2020/08 – 2020/09,
+
+  Department of Computer Science and Engineering,
+
+  Southern University of Science and Technology, Shenzhen, China
+
+•	Research Assistant,	2018/04 – 2019/03,
 
   The University of Hong Kong Shenzhen Institute of Research and Innovation (HKU-SIRI), Shenzhen, China
 
@@ -108,33 +107,33 @@ Conferences:
 
 ### Projects
 
-•	General Program of Guangdong Basic and Applied Basic Research Foundation (广东省自然科学基金面上项目（基础与应用基础研究基金), 2019/10 – 2022/09
+•	General Program of Guangdong Basic and Applied Basic Research Foundation (广东省自然科学基金面上项目（基础与应用基础研究基金), 2019/10 – 2022/09,
 
-  Research on Traffic Speed Estimation and Prediction in City wide Transportation Networks Driven by Graph Deep Learning (图网络深度学习驱动的城市交通网车速监测及预测算法研究)
+  Research on Traffic Speed Estimation and Prediction in City wide Transportation Networks Driven by Graph Deep Learning (图网络深度学习驱动的城市交通网车速监测及预测算法研究),
   
-  Grant number: 2019A1515011032
+  Grant number: 2019A1515011032,
   
-  Awarded amount: RMB 100K
+  Awarded amount: RMB 100K,
   
   Role: Participant
   
-•	National Key Research and Development Program of China (国家重点研发项目计划), 2017/11 – 2021/06
+•	National Key Research and Development Program of China (国家重点研发项目计划), 2017/11 – 2021/06,
 
-  交直流混合的分布式可再生能源关键技术、核心装备和工程示范研究
+  交直流混合的分布式可再生能源关键技术、核心装备和工程示范研究,
   
-  Grant number: 2017YFB0903204
+  Grant number: 2017YFB0903204,
   
-  Awarded amount: RMB 62560K
+  Awarded amount: RMB 62560K,
   
   Role: Participant
   
-•	Research Grants Council General Research Fund, 2016/09 – 2019/08 
+•	Research Grants Council General Research Fund, 2016/09 – 2019/08, 
 
-  Real-Time Power Balancing in Electrical Grids with Vehicle-to-Grid Technology
+  Real-Time Power Balancing in Electrical Grids with Vehicle-to-Grid Technology,
   
-  Grant number: 17261416
+  Grant number: 17261416,
   
-  Awarded amount: HKD 675647
+  Awarded amount: HKD 675647,
   
   Role: Participant
 
