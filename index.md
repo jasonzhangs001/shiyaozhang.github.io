@@ -6,18 +6,37 @@ Southern University of Science and Technology, Shenzhen, China
 
 ### Education:
 
-Doctor of Philosophy in Electrical Engineering,	
-The University of Hong Kong, Hong Kong SAR, China,
-2016/09 – 2020/07
+•	Doctor of Philosophy in Electrical Engineering,	
+  The University of Hong Kong, Hong Kong SAR, China,
+  2016/09 – 2020/07
 
-Master of Science in Electrical Engineering,	
-University of Southern California, Los Angeles, California, USA
-2015/01 – 2016/05
+•	Master of Science in Electrical Engineering,	
+  University of Southern California, Los Angeles, California, USA
+  2015/01 – 2016/05
 
-Bachelor of Science in Electrical Engineering,	
-Minor: Economics (Graduate with Distinction),
-Purdue University, West Lafayette, Indiana, USA
-2010/08 – 2014/12,
+•	Bachelor of Science in Electrical Engineering,	
+  Minor: Economics (Graduate with Distinction),
+  Purdue University, West Lafayette, Indiana, USA
+  2010/08 – 2014/12,
+
+
+### Professional Experience:
+
+•	Post-doctoral Research Fellow, 2020/09 – Present
+
+  Academy for Advanced Interdisciplinary Studies
+
+  Southern University of Science and Technology, Shenzhen, China
+
+•	Visiting Scholar,	2020/08 – 2020/09
+
+  Department of Computer Science and Engineering
+
+  Southern University of Science and Technology, Shenzhen, China
+
+•	Research Assistant,	2018/04 – 2019/03
+
+  The University of Hong Kong Shenzhen Institute of Research and Innovation (HKU-SIRI), Shenzhen, China
 
 
 ### Publications: (\*) Corresponding Author.
@@ -49,30 +68,67 @@ Conferences:
 ### Professionals
 
 •	IEEE Member, 2020/09 - Present
+
 •	ACM-HK Coach Assistant (The University of Hong Kong), 2017/05 – 2017/08
 
 •	Reviewer for top journals: 
 
-IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS) 
+  IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS) 
 
-IEEE Transactions on Computational Social Systems (IEEE TCSS)
+  IEEE Transactions on Computational Social Systems (IEEE TCSS)
 
-IEEE Systems Journal (IEEE ISJ)
+  IEEE Systems Journal (IEEE ISJ)
 
-IEEE Transactions on Network Science and Engineering (IEEE TNSE)
+  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 
-IET Smart Cities
+  Computer Networks
+
+  IET Smart Cities
 
 •	Reviewer for top conferences: 
 
-IEEE Wireless Communications and Networking Conference (IEEE WCNC)
+  IEEE Wireless Communications and Networking Conference (IEEE WCNC)
 
-IEEE Global Communications Conference (IEEE Globecom)
+  IEEE Global Communications Conference (IEEE Globecom)
 
-IEEE International Conference on Communications (IEEE ICC)
+  IEEE International Conference on Communications (IEEE ICC)
 
-IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm)
+  IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm)
 
-IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN)
+  IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN)
 
 ### Projects
+
+•	General Program of Guangdong Basic and Applied Basic Research Foundation (广东省自然科学基金面上项目（基础与应用基础研究基金), 2019/10 – 2022/09
+
+  Research on Traffic Speed Estimation and Prediction in City wide Transportation Networks Driven by Graph Deep Learning (图网络深度学习驱动的城市交通网车速监测及预测算法研究)
+  
+  Grant number: 2019A1515011032
+  
+  Awarded amount: RMB 100K
+  
+  Role: Participant
+  
+•	National Key Research and Development Program of China (国家重点研发项目计划), 2017/11 – 2021/06
+
+  交直流混合的分布式可再生能源关键技术、核心装备和工程示范研究
+  
+  Grant number: 2017YFB0903204
+  
+  Awarded amount: RMB 62560K
+  
+  Role: Participant
+  
+•	Research Grants Council General Research Fund, 2016/09 – 2019/08 
+
+  Real-Time Power Balancing in Electrical Grids with Vehicle-to-Grid Technology
+  
+  Grant number: 17261416
+  
+  Awarded amount: HKD 675647
+  
+  Role: Participant
+
+
+
+
