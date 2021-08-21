@@ -1,22 +1,31 @@
 ## Shiyao Zhang
 
 Post-doctoral Research Fellow
+
 Academy for Advanced Interdisciplinary Studies
+
 Southern University of Science and Technology, Shenzhen, China
 
 ### Education:
 
 •	Doctor of Philosophy in Electrical Engineering,	
+
   The University of Hong Kong, Hong Kong SAR, China,
+  
   2016/09 – 2020/07
 
 •	Master of Science in Electrical Engineering,	
-  University of Southern California, Los Angeles, California, USA
+
+  University of Southern California, Los Angeles, California, USA,
+  
   2015/01 – 2016/05
 
 •	Bachelor of Science in Electrical Engineering,	
+
   Minor: Economics (Graduate with Distinction),
+  
   Purdue University, West Lafayette, Indiana, USA
+  
   2010/08 – 2014/12,
 
 
@@ -65,7 +74,7 @@ Conferences:
 [6]	Shiyao Zhang*, and Ka-Cheong Leung, “Joint Optimal Power Flow Routing and Decentralized Scheduling with Vehicle-to-Grid Regulation Service,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2018), Aalborg, Denmark, 29 October - 1 November 2018.
 
 
-### Professionals
+### Professional Activities:
 
 •	IEEE Member, 2020/09 - Present
 
