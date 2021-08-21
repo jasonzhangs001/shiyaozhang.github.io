@@ -107,34 +107,28 @@ Conferences:
 
 ### Projects
 
-•	General Program of Guangdong Basic and Applied Basic Research Foundation (广东省自然科学基金面上项目（基础与应用基础研究基金), 2019/10 – 2022/09,
+•	[2019/10 – 2022/09] General Program of Guangdong Basic and Applied Basic Research Foundation (广东省自然科学基金面上项目（基础与应用基础研究基金),
 
   Research on Traffic Speed Estimation and Prediction in City wide Transportation Networks Driven by Graph Deep Learning (图网络深度学习驱动的城市交通网车速监测及预测算法研究),
   
   Grant number: 2019A1515011032,
   
-  Awarded amount: RMB 100K,
-  
   Role: Participant
   
-•	National Key Research and Development Program of China (国家重点研发项目计划), 2017/11 – 2021/06,
+•	[2017/11 – 2021/06] National Key Research and Development Program of China (国家重点研发项目计划), 
 
   交直流混合的分布式可再生能源关键技术、核心装备和工程示范研究,
   
   Grant number: 2017YFB0903204,
   
-  Awarded amount: RMB 62560K,
-  
   Role: Participant
   
-•	Research Grants Council General Research Fund, 2016/09 – 2019/08, 
+•	[2016/09 – 2019/08] Research Grants Council General Research Fund, 
 
   Real-Time Power Balancing in Electrical Grids with Vehicle-to-Grid Technology,
   
   Grant number: 17261416,
-  
-  Awarded amount: HKD 675647,
-  
+   
   Role: Participant
 
 
