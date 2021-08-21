@@ -1,32 +1,22 @@
-## Welcome to GitHub Pages
+## Shiyao Zhang
 
-You can use the [editor on GitHub](https://github.com/jasonzhangs001/shiyaozhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Post-doctoral Research Fellow
+Academy for Advanced Interdisciplinary Studies
+Southern University of Science and Technology, Shenzhen, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+Doctor of Philosophy in Electrical Engineering,	2016/09 – 2020/07
+The University of Hong Kong, Hong Kong SAR, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Master of Science in Electrical Engineering,	2015/01 – 2016/05
+University of Southern California, Los Angeles, California
 
-```markdown
-Syntax highlighted code block
+Bachelor of Science in Electrical Engineering,	2010/08 – 2014/12
+Minor: Economics
+Purdue University, West Lafayette, Indiana 
+Graduate with Distinction
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
