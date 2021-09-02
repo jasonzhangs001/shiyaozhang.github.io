@@ -50,27 +50,31 @@ Southern University of Science and Technology, Shenzhen, China
 ### Publications: (\*) Corresponding Author.
 Journals:  
 
-[1]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
+[1]	Shiyao Zhang, and James J.Q. Yu*, “Electric Vehicle Dynamic Wireless Charging System: Optimal Placement and Vehicle-to-Grid Scheduling,” IEEE Internet of Things Journal (IEEE IoT-J), in press.
 
-[2]	James J.Q. Yu, Christos Markos, and Shiyao Zhang*, “Long-Term Urban Traffic Speed Prediction with Deep Learning on Graphs,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
+[2]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
 
-[3]	Xiexin Zou, Shiyao Zhang, Chenhan Zhang, James J.Q. Yu*, and Edward Chung, “Long-term Origin-Destination Demand Prediction with Graph Deep Learning,” IEEE Transactions on Big Data (IEEE TBD), in press. 
+[3]	James J.Q. Yu, Christos Markos, and Shiyao Zhang*, “Long-Term Urban Traffic Speed Prediction with Deep Learning on Graphs,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
-[4]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
+[4]	Xiexin Zou, Shiyao Zhang, Chenhan Zhang, James J.Q. Yu*, and Edward Chung, “Long-term Origin-Destination Demand Prediction with Graph Deep Learning,” IEEE Transactions on Big Data (IEEE TBD), in press. 
+
+[5]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
 Conferences:
 
-[1]	Yongchao Ye, Shiyao Zhang, and James J.Q. Yu*, “Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network,” Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN 2021), Bratislava, Slovakia, 14-17 September 2021.
+[1]	Shiyao Zhang, and Ka-Cheong Leung*, “Data-Driven Frequency Regulation Reserve Prediction Based on Deep Learning Approach,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2021), Aachen, Germany, 25-28 October 2021.
 
-[2]	Yixuan Yang, Shiyao Zhang, Chenhan Zhang, and James J.Q. Yu*, “Origin-Destination Matrix Prediction via Hexagon-based Generated Graph,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2021), Indianapolis, IN, United States, 19-22 September 2021.
+[2]	Yongchao Ye, Shiyao Zhang, and James J.Q. Yu*, “Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network,” Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN 2021), Bratislava, Slovakia, 14-17 September 2021.
 
-[3]	Yunjie Huang, Xiaozhuang Song, Shiyao Zhang, and James J.Q. Yu*, “Transfer Learning in Traffic Prediction with Graph Neural Networks,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2021), Indianapolis, IN, United States, 19-22 September 2021.
+[3]	Yixuan Yang, Shiyao Zhang, Chenhan Zhang, and James J.Q. Yu*, “Origin-Destination Matrix Prediction via Hexagon-based Generated Graph,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2021), Indianapolis, IN, United States, 19-22 September 2021.
 
-[4]	Ziwei Wang, Shiyao Zhang, and James J.Q. Yu*, “Reconstruction of Missing Trajectory Data: A Deep Learning Approach,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2020), Rhodes, Greece, 20-23 September 2020.
+[4]	Yunjie Huang, Xiaozhuang Song, Shiyao Zhang, and James J.Q. Yu*, “Transfer Learning in Traffic Prediction with Graph Neural Networks,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2021), Indianapolis, IN, United States, 19-22 September 2021.
 
-[5]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Allocation and Scheduling for Electric Buses with Vehicle-to-Grid Regulation Service,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2019), Beijing, China, 21-24 October 2019.
+[5]	Ziwei Wang, Shiyao Zhang, and James J.Q. Yu*, “Reconstruction of Missing Trajectory Data: A Deep Learning Approach,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2020), Rhodes, Greece, 20-23 September 2020.
 
-[6]	Shiyao Zhang*, and Ka-Cheong Leung, “Joint Optimal Power Flow Routing and Decentralized Scheduling with Vehicle-to-Grid Regulation Service,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2018), Aalborg, Denmark, 29 October - 1 November 2018.
+[6]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Allocation and Scheduling for Electric Buses with Vehicle-to-Grid Regulation Service,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2019), Beijing, China, 21-24 October 2019.
+
+[7]	Shiyao Zhang*, and Ka-Cheong Leung, “Joint Optimal Power Flow Routing and Decentralized Scheduling with Vehicle-to-Grid Regulation Service,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2018), Aalborg, Denmark, 29 October - 1 November 2018.
 
 
 ### Professional Activities:
