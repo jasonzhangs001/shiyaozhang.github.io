@@ -62,7 +62,7 @@ Journals:
 
 Conferences:
 
-[1]	Chenhan Zhang, Shiyao Zhang, Shui Yu, James J.Q. Yu*, “Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning,” Proceedings of the IEEE Wireless Communications and Networking Conference (IEEE WCNC 2022), Austin, TX, United States, 10-13 April 2022.
+[1]	Chenhan Zhang, Shiyao Zhang, Shui Yu, and James J.Q. Yu*, “Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning,” Proceedings of the IEEE Wireless Communications and Networking Conference (IEEE WCNC 2022), Austin, TX, United States, 10-13 April 2022.
 
 [2]	Shiyao Zhang, and Ka-Cheong Leung*, “Data-Driven Frequency Regulation Reserve Prediction Based on Deep Learning Approach,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2021), Aachen, Germany, 25-28 October 2021.
 
