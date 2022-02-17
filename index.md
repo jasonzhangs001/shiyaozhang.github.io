@@ -89,11 +89,17 @@ Conferences:
 
   IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS) 
 
+  IEEE Internet of Things Journal (IEEE IoT-J)
+  
   IEEE Transactions on Computational Social Systems (IEEE TCSS)
 
   IEEE Systems Journal (IEEE ISJ)
 
   IEEE Transactions on Network Science and Engineering (IEEE TNSE)
+  
+  Journal of Cleaner Production
+  
+  Journal of Energy Storage
 
   Computer Networks
 
@@ -109,19 +115,23 @@ Conferences:
 
   IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm)
 
+  IEEE Vehicular Technology Conference (IEEE VTC)
+  
   IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN)
 
 ### Projects
 
-•	[2019/10 – 2022/09] General Program of Guangdong Basic and Applied Basic Research Foundation (广东省自然科学基金面上项目（基础与应用基础研究基金),
+•	[2021/09 – 2023/09] General Program of Guangdong Basic and Applied Basic Research Foundation (广东省普通高校科研项目(青年创新人才项目)),
 
-  Research on Traffic Speed Estimation and Prediction in City wide Transportation Networks Driven by Graph Deep Learning (图网络深度学习驱动的城市交通网车速监测及预测算法研究),
+  Research on Autonomous Vehicle Planning, Control, and Learning Integrated Strategy in Big Data Smart City (面向大数据智慧城市中无人驾驶汽车的规划控制学习一体化研究),
   
-  Grant number: 2019A1515011032,
+  Grant number: 2021KQNCX078,
   
-  Role: Participant
+  Awarded amount: RMB 40K,
   
-•	[2017/11 – 2021/06] National Key Research and Development Program of China (国家重点研发项目计划), 
+  Role: Primary Investigator
+  
+•	[2017/11 – 2020/12] National Key Research and Development Program of China (国家重点研发项目计划), 
 
   交直流混合的分布式可再生能源关键技术、核心装备和工程示范研究,
   
@@ -129,11 +139,11 @@ Conferences:
   
   Role: Participant
   
-•	[2016/09 – 2019/08] Research Grants Council General Research Fund, 
+•	[2018/01 – 2020/12] National Natural Science Foundation of China - Young Scientists (国家自然科学基金青年基金), 
 
-  Real-Time Power Balancing in Electrical Grids with Vehicle-to-Grid Technology,
+  Fundamental Research on Construction and Operation Stratgies of Converged Network For Smart Grid and Electric Vehicles (智能电网与电动车融合网络构建及运营策略的基础性研究),
   
-  Grant number: 17261416,
+  Grant number: 51707170,
    
   Role: Participant
 
