@@ -50,15 +50,19 @@ Southern University of Science and Technology, Shenzhen, China
 ### Publications: (\*) Corresponding Author.
 Journals:  
 
-[1]	Shiyao Zhang, and James J.Q. Yu*, “Electric Vehicle Dynamic Wireless Charging System: Optimal Placement and Vehicle-to-Grid Scheduling,” IEEE Internet of Things Journal (IEEE IoT-J), in press.
+[1]	Shiyao Zhang, Christos Markos,and James J.Q. Yu*, “Autonomous Vehicle Intelligent System: Joint Ride-Sharing and Parcel Delivery Strategy,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
-[2]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
+[2]	Shiyao Zhang, Ka-Cheong Leung*, “A Smart Cross-System Framework for Joint Allocation and Scheduling with Vehicle-to-Grid Regulation Service,” IEEE Transactions on Vehicular Technology (IEEE TVT), in press.
 
-[3]	James J.Q. Yu, Christos Markos, and Shiyao Zhang*, “Long-Term Urban Traffic Speed Prediction with Deep Learning on Graphs,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
+[3]	Shiyao Zhang, and James J.Q. Yu*, “Electric Vehicle Dynamic Wireless Charging System: Optimal Placement and Vehicle-to-Grid Scheduling,” IEEE Internet of Things Journal (IEEE IoT-J), in press.
 
-[4]	Xiexin Zou, Shiyao Zhang, Chenhan Zhang, James J.Q. Yu*, and Edward Chung, “Long-term Origin-Destination Demand Prediction with Graph Deep Learning,” IEEE Transactions on Big Data (IEEE TBD), in press. 
+[5]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
 
-[5]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), vol. 23, no. 1, pp. 499-512, Jan. 2022.
+[5]	James J.Q. Yu, Christos Markos, and Shiyao Zhang*, “Long-Term Urban Traffic Speed Prediction with Deep Learning on Graphs,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
+
+[6]	Xiexin Zou, Shiyao Zhang, Chenhan Zhang, James J.Q. Yu*, and Edward Chung, “Long-term Origin-Destination Demand Prediction with Graph Deep Learning,” IEEE Transactions on Big Data (IEEE TBD), in press. 
+
+[7]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), vol. 23, no. 1, pp. 499-512, Jan. 2022.
 
 Conferences:
 
