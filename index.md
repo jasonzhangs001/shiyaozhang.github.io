@@ -54,15 +54,15 @@ Journals:
 
 [2]	Shiyao Zhang, Ka-Cheong Leung*, “A Smart Cross-System Framework for Joint Allocation and Scheduling with Vehicle-to-Grid Regulation Service,” IEEE Transactions on Vehicular Technology (IEEE TVT), in press.
 
-[3]	Shiyao Zhang, and James J.Q. Yu*, “Electric Vehicle Dynamic Wireless Charging System: Optimal Placement and Vehicle-to-Grid Scheduling,” IEEE Internet of Things Journal (IEEE IoT-J), in press.
+[3]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
 
-[5]	Shiyao Zhang, and James J.Q. Yu*, “Bayesian Deep Learning for Dynamic Power System State Prediction Considering Renewable Energy Uncertainty,” Journal of Modern Power Systems and Clean Energy (MPCE), in press.
+[4]	James J.Q. Yu, Christos Markos, and Shiyao Zhang*, “Long-Term Urban Traffic Speed Prediction with Deep Learning on Graphs,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
-[6]	James J.Q. Yu, Christos Markos, and Shiyao Zhang*, “Long-Term Urban Traffic Speed Prediction with Deep Learning on Graphs,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
+[5]	Xiexin Zou, Shiyao Zhang, Chenhan Zhang, James J.Q. Yu*, and Edward Chung, “Long-term Origin-Destination Demand Prediction with Graph Deep Learning,” IEEE Transactions on Big Data (IEEE TBD), in press. 
 
-[7]	Xiexin Zou, Shiyao Zhang, Chenhan Zhang, James J.Q. Yu*, and Edward Chung, “Long-term Origin-Destination Demand Prediction with Graph Deep Learning,” IEEE Transactions on Big Data (IEEE TBD), in press. 
+[6]	Shiyao Zhang, and James J.Q. Yu*, “Electric Vehicle Dynamic Wireless Charging System: Optimal Placement and Vehicle-to-Grid Scheduling,” IEEE Internet of Things Journal (IEEE IoT-J), vol. 9, no. 8, pp. 6047-6057, Apr. 2022.
 
-[8]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), vol. 23, no. 1, pp. 499-512, Jan. 2022.
+[7]	Shiyao Zhang, and Ka-Cheong Leung*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), vol. 23, no. 1, pp. 499-512, Jan. 2022.
 
 Conferences:
 
