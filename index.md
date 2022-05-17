@@ -50,7 +50,7 @@ Southern University of Science and Technology, Shenzhen, China
 ### Publications: (\*) Corresponding Author.
 Journals:  
 
-[1] Shiyao Zhang, Shuai Wang*, Shuai Yu, James J.Q. Yu*, and Miaowen Wen, “Collision Avoidance Predictive Motion Planning Based on Integrated Perception and V2V Communication,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), accepted.
+[1] Shiyao Zhang, Shuai Wang*, Shuai Yu, James J.Q. Yu*, and Miaowen Wen, “Collision Avoidance Predictive Motion Planning Based on Integrated Perception and V2V Communication,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
 [2]	Shiyao Zhang, Christos Markos,and James J.Q. Yu*, “Autonomous Vehicle Intelligent System: Joint Ride-Sharing and Parcel Delivery Strategy,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
